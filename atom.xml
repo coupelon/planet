@@ -2,12 +2,23 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2018-12-18T11:08:41+00:00</updated>
+    <updated>2018-12-19T09:26:36+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>#8 - Les bonnes pratiques CleanCode sont-elles compatibles avec l'IA et l'IoT ?</title>
+        <updated>2019-01-22T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/01/22/muginclermont-8</id>
+        <link href="http://planet.clermontech.org/2019/01/22/muginclermont-8" />
+        <content type="html">&lt;p&gt;La prochaine session du MUG donnera la parole à Sacha Lhopital. 
+Sacha travaille à Lyon pour la société VISEO. Spécialisée en Intelligence Artificielle, elle présentera un projet IA et IoT, appliqué au domaine médical. Sa société voulait challenger les méthodologies de CleanCode, Behavior Diven Development, CI/CD avec du Python, DevOps… sur des sujets IA. Sacha a relevé les différents défis et vous relate ce projet innovant, reposant sur un algorithme d’IA distribuée (DCOP), une branche assez méconnue de l’IA.
+Comme d’habitude, ce talk se terminera par une collation au cours de laquelle Sacha répondra à toutes les questions.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #39</title>
