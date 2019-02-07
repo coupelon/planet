@@ -2,12 +2,23 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-02-07T11:32:37+00:00</updated>
+    <updated>2019-02-07T20:38:38+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>#9 - Journal d'un dev Java dans un monde .Net</title>
+        <updated>2019-02-21T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/02/21/muginclermont-9</id>
+        <link href="http://planet.clermontech.org/2019/02/21/muginclermont-9" />
+        <content type="html">&lt;p&gt;La prochaine session du MUG donnera la parole à un développeur Java, Mr Daniel Petisme.
+“Il faut avouer que Microsoft a fait un impressionnant changement de culture ces dernières années, au point de devenir…cool ? Et si le coté obscure n’était pas si obscure finalement ? Durant ce talk je vous ferais vivre la découverte du monde .Net Core aux travers des yeux d’un Java”
+Comme d’habitude, ce talk se terminera par une collation au cours de laquelle Daniel répondra à toutes les questions.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>#8 - Les bonnes pratiques CleanCode sont-elles compatibles avec l'IA et l'IoT ?</title>
