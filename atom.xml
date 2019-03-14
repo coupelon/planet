@@ -2,12 +2,32 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-03-13T11:48:25+00:00</updated>
+    <updated>2019-03-14T08:51:10+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>DatApéro #1 : Warm Up</title>
+        <updated>2019-03-26T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/03/26/datapero-1-warm-up</id>
+        <link href="http://planet.clermontech.org/2019/03/26/datapero-1-warm-up" />
+        <content type="html">&lt;p&gt;Le temps est venu de construire LA communauté DATA de Clermont-Ferrand !&lt;/p&gt;
+
+&lt;p&gt;Cette première rencontre, autour d’un verre, sera l’occasion à tous les #DataLovers, de :
+  - Faire connaissance et échanger sur nos parcours
+  - Définir les objectifs de ce groupe
+  - Brainstormer sur le format et le contenu des prochaines rencontres&lt;/p&gt;
+
+&lt;p&gt;Ceci afin de fédérer et rassembler tous les acteurs clermontois : business, développeurs, étudiants, scientifiques, industriels, …
+autour des domaines de la data : #DataScience #BigData #MachineLearning #DeepLearning #IA #DataMining #BI #DataViz&lt;/p&gt;
+
+&lt;p&gt;Venez comme vous êtes à partir de 18h au Délirium Café.
+Et n’hésitez pas à partager à d’autres #DataLovers !&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>clermontech.php Super Apéro 2019</title>
