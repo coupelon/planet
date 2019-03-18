@@ -2,12 +2,27 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-03-18T11:52:20+00:00</updated>
+    <updated>2019-03-18T13:01:18+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Un APM pour les amener tous et dans la qualité les lier</title>
+        <updated>2019-03-28T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/03/28/lavajug-glowroot</id>
+        <link href="http://planet.clermontech.org/2019/03/28/lavajug-glowroot" />
+        <content type="html">&lt;p&gt;Les APM (Application Performance Managment) ont longtemps été réservés aux équipes de production.
+Avec Glowroot, les barrières tombent et chacun peut désormais utiliser cet outillage pour améliorer la qualité et l’expérience utilisateur.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Henri Gomez&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Henri travaille dans l’industrie logicielle depuis plus 30 ans, il a glissé doucement du Dev au Run et il est actuellement Head of SRE chez Saagie.
+Pour se changer les idées, il redonne vie à de vieilles machines des années 80/90, “c64 for ever” !&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>DatApéro #1 : Warm Up</title>
