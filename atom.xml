@@ -2,12 +2,26 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-04-02T11:58:54+00:00</updated>
+    <updated>2019-04-02T13:38:07+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Le réactif avec Eclipse Vert.x : concilier simplicité, évolutivité et résilience</title>
+        <updated>2019-04-11T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/04/11/lavajug-vertx</id>
+        <link href="http://planet.clermontech.org/2019/04/11/lavajug-vertx" />
+        <content type="html">&lt;p&gt;Vert.x est un toolkit pour écrire des applications réactives et polyglottes pour la JVM. Il fournit aujourd’hui un écosystème complet et modulaire qui intègre le paradigme réactif de bout en bout, performant et facile à utiliser pour tous types d’applications. La richesse de l’écosystème Vert.x permet de développer aussi bien une application web de type temps réel,de faire de l’IoT, d’implémenter des adaptateurs de protocoles, d’écrire des applications distribuées et bien entendu de concevoir et intégrer des micro-services.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Julien Ponge&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am currently a Principal Software Engineer at Red Hat. I am primarily working on reactive things and the Eclipse Vert.x project. I am based in Lyon, France.
+I am “on leave” from INSA Lyon (Telecom Department) and the CITI Laboratory where I was an Associate Professor in computer science and engineering. I remain a member and Associate Research Fellow of the CITI Lab within the Dynamid team.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Un APM pour les amener tous et dans la qualité les lier</title>
