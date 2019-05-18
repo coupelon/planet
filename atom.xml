@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-05-18T12:56:10+00:00</updated>
+    <updated>2019-05-18T15:49:15+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -19,14 +19,11 @@
     </entry>
     
     <entry>
-        <title>From ground to Azure !</title>
+        <title>MUG In Clermont - 12 - From ground to Azure !</title>
         <updated>2019-05-21T00:00:00+00:00</updated>
-        <id>http://planet.clermontech.org/2019/05/21/muginclermont-11</id>
-        <link href="http://planet.clermontech.org/2019/05/21/muginclermont-11" />
-        <content type="html">&lt;p&gt;Hello les artistes,
-Pour rappel notre prochain meetup c’est Mardi prochain ! Accompagnez nous dans la préparation et le déploiement d’une infrastructure multi environnements grâce à Azure et Kubernetes.
-Le sujet sera présenté par Joani Couma et Axel Pereira de la société CGI.
-La présentation sera suivi d’une collation où Joani et Axel pourront répondre à toutes vos questions.&lt;/p&gt;
+        <id>http://planet.clermontech.org/2019/05/21/muginclermont-12</id>
+        <link href="http://planet.clermontech.org/2019/05/21/muginclermont-12" />
+        <content type="html">&lt;p&gt;Accompagnez nous dans la préparation et le déploiement d’une infrastructure multi environnements grâce à Azure et Kubernetes. (Azure, kubernetes, terraform, helm, scalability, operability, aks, infraAsCode) Le sujet sera présenté par Joani Couma et Axel Pereira de la société CGI. La présentation sera suivi d’une collation où Joani et Axel pourront répondre à toutes vos questions.&lt;/p&gt;
 </content>
     </entry>
     
