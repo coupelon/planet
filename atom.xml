@@ -2,12 +2,33 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-05-27T12:28:06+00:00</updated>
+    <updated>2019-05-27T15:00:41+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Workshop #3 : Rust</title>
+        <updated>2019-06-05T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/06/05/workshop3-rust</id>
+        <link href="http://planet.clermontech.org/2019/06/05/workshop3-rust" />
+        <content type="html">&lt;p&gt;Les &lt;strong&gt;workshops&lt;/strong&gt; sont des ateliers thématiques, pour
+passer de zéro à héros sur un sujet ou une technologie bien ciblé !&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.rust-lang.org/&quot;&gt;Rust&lt;/a&gt; est un langage de programmation initialement
+développé par Mozilla. Conçu pour être un langage sécurisé, concurrent et pratique,
+il est souvent décrit comme l’un des successeurs potentiels de C++.&lt;/p&gt;
+
+&lt;p&gt;Nous vous proposons de venir vous familiariser avec cette technologie au
+cours d’un atelier avec, au programme, une présentation des fondamentaux du
+langage ainsi que le développement de votre première application.&lt;/p&gt;
+
+&lt;p&gt;Le Workshop#3 est co-organisé par &lt;a href=&quot;https://clermontech.org&quot;&gt;Clermont’ech&lt;/a&gt; avec
+l’aide d’&lt;a href=&quot;https://easymov.fr&quot;&gt;Easymov Robotics&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #42</title>
