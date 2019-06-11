@@ -2,12 +2,25 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-06-10T12:34:32+00:00</updated>
+    <updated>2019-06-11T09:20:38+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Kotlin : Le back du futur, le codelab</title>
+        <updated>2019-06-20T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/06/20/lavajug-kotlin-codelab</id>
+        <link href="http://planet.clermontech.org/2019/06/20/lavajug-kotlin-codelab" />
+        <content type="html">&lt;p&gt;Depuis l’annonce par Google du support de Kotlin sur Android, les développeurs d’applications mobiles se sont fortement intéressés à ce langage récent. Mais “Nom de Zeus !” est-ce réservé aux développeurs mobiles ? Non, Non et Non. Kotlin tourne sur la jvm alors autant en profiter dans tous nos projets. Viens découvrir toutes les facettes de ton futur prochain langage préféré. Au travers de cette conférence je te présenterai les principaux avantages du langage. Que ce soit les data class, les extensions, les coroutines… Je profiterai également d’un bout de code pour te montrer qu’il est simple de faire une API avec Spring et Kotlin. On apprendra à transformer ton vieux Java en Kotlin puis à penser directement en Kotlin pour plus de “fun” et moins de “void”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adrien Pessu&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Je suis passionné de développement, en particulier Java, Kotlin, Angular et Web. J’ai évolué pendant plusieurs années en société de services puis chez un éditeur logiciel,et je me suis lancé dans l’aventure freelance.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Workshop #3 : Rust</title>
