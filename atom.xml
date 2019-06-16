@@ -2,12 +2,36 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-06-16T12:38:10+00:00</updated>
+    <updated>2019-06-16T18:54:28+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>DatApéro #2 : Topic model & Analyse de sentiments</title>
+        <updated>2019-07-03T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/07/03/datapero-2-topic-model-analyse-sentiments</id>
+        <link href="http://planet.clermontech.org/2019/07/03/datapero-2-topic-model-analyse-sentiments" />
+        <content type="html">&lt;p&gt;Une machine peut-elle comprendre le sujet d’un article ?
+Peut-elle détecter un sentiment ?
+Peut-elle améliorer les relations ?&lt;/p&gt;
+
+&lt;p&gt;Dans ce DatApéro, Barbara Martin Ruiz, data scientist chez Michelin,répondra à toutes ces questions en parlant de topic model et d’analyse de sentiments.&lt;/p&gt;
+
+&lt;p&gt;Au programme :
+  - Présentation de Clermont-Ferrand Data Lovers
+  - Introduction &amp;amp; acculturation au topic model et à l’analyse de sentiments
+  - Cas concrets d’utilisation
+  - Démonstration&lt;/p&gt;
+
+&lt;p&gt;La soirée se finira autour d’un apéro afin de poursuivre les discussions.
+Merci de répondre à l’événement pour prévoir le nécessaire.&lt;/p&gt;
+
+&lt;p&gt;Cette soirée est organisée en partenariat avec Michelin.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Kotlin : Le back du futur, le codelab</title>
