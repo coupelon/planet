@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-06-20T12:41:25+00:00</updated>
+    <updated>2019-06-21T07:03:56+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -30,6 +30,18 @@ Peut-elle améliorer les relations ?&lt;/p&gt;
 Merci de répondre à l’événement pour prévoir le nécessaire.&lt;/p&gt;
 
 &lt;p&gt;Cette soirée est organisée en partenariat avec Michelin.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>MUG In Clermont - 13 - Clermont Club Info</title>
+        <updated>2019-06-25T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/06/25/muginclermont-13</id>
+        <link href="http://planet.clermontech.org/2019/06/25/muginclermont-13" />
+        <content type="html">&lt;p&gt;Les étudiants de l’IUT Info de Clermont-Ferrand se proposent de venir nous parler de leurs projets informatiques au sein du Club Informatique, animé par Marc Chevaldonné, Maître de Conférences à l’IUT.
+Marc Chevaldonné ainsi que ses étudiants nous parleront de développement avec Kinect, Médusa, Unity, Réalité augmentée, …
+A soirée spéciale, lieu spécial !
+L’évènement sera suivit d’un apéro/barbecue auquel vous êtes bien évidement conviés même si vous ne pouvez pas participer à la conférence.&lt;/p&gt;
 </content>
     </entry>
     
