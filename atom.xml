@@ -2,12 +2,153 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-10-06T13:40:40+00:00</updated>
+    <updated>2019-10-07T19:25:26+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Ateliers, défis, jeux  `Coding Night` par le Club Info</title>
+        <updated>2019-10-18T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/18/code-week-2</id>
+        <link href="http://planet.clermontech.org/2019/10/18/code-week-2" />
+        <content type="html">&lt;p&gt;Ateliers, défis, accès au matériel et aux périphériques exotiques
+(robots, RV, RA, …). Ambiance garantie ainsi que pizzas, tartes, cafés et
+boissons. Qui tiendra jusqu’au bout ?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscription obligatoire&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Spectacle `Si le Bibi de Bobi m'était compté` par François Fabre</title>
+        <updated>2019-10-18T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/18/code-week-1</id>
+        <link href="http://planet.clermontech.org/2019/10/18/code-week-1" />
+        <content type="html">&lt;p&gt;Un magnifique spectacle drôle, avec des chansons, des maths et de
+l’informatique ?! Oui ! c’est excellent ! Je l’ai déjà vu, et j’y retourne !
+C’est la super soirée à laquelle vous pouvez amener tous les membres de votre
+famille, vos amis, venez nombreux !&lt;/p&gt;
+
+&lt;p&gt;Un voyage fantaisite et savant où l’on assiste à l’ascension logique, simple
+et rapide, du binaire vers le BIBI-BINAIRE, langage nouveau, qui adopte des
+symboles spéciaux, évitant ainsi toute confusion avec son ennemi le DECIMAL,
+qu’il relègue alors au rang de langue morte.&lt;/p&gt;
+
+&lt;p&gt;« Du Boby Lapointe pur jus, drôle et rigoureux, comme ses chansons, mais avec
+du génie mathématique dedans. »&lt;/p&gt;
+
+&lt;p&gt;Avant d’en savoir davantage sur les dessous de ce système novateur,
+imprégnez-vous de ce slogan :&lt;/p&gt;
+
+&lt;p&gt;Avec le BIBI-BINAIRE, vous mettez un ORDINATEUR dans votre crâne.
+https://vimeo.com/50796704&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Crypto-monnaies & securité par Pascal Lafourcade</title>
+        <updated>2019-10-16T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/16/code-week</id>
+        <link href="http://planet.clermontech.org/2019/10/16/code-week" />
+        <content type="html">&lt;p&gt;Après les révolutions de l’écriture il y des centaines d’années, la révolution
+de l’imprimerie par Gutenberg et plus récemment la révolution de la
+communication avec Internet, aujourd’hui la révolution blockchain est en
+marche ! Ce n’est pas un effet de mode car Bitcoin a déjà 10 ans !&lt;/p&gt;
+
+&lt;p&gt;Dans cette conférence suivi d’un débat, nous présenterons comment ces
+technologies fonctionnent, en montrant leurs avantages et leurs limitations
+ainsi que leurs applications concrètes.&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Allez, ce soir on casse nos téléphones ! », conférence-atelier mené par Clémence Piteau</title>
+        <updated>2019-10-15T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/15/code-week</id>
+        <link href="http://planet.clermontech.org/2019/10/15/code-week" />
+        <content type="html">&lt;p&gt;Clémence travaille dans une entreprise du numérique à Lyon et vous fait
+l’honneur de se déplacer pour vous rencontrer.&lt;/p&gt;
+
+&lt;p&gt;Le pitch de son intervention : Travailler dans le monde de la tech c’est être
+à la pointe des innovations.&lt;/p&gt;
+
+&lt;p&gt;Oui bon, c’est un petit peu vrai ! Mais de nombreux facteurs me poussent à
+utiliser les outils numériques chaque jour à chaque instant, et ce, de manière
+excessive et intrusive. Parfois, ça va à l’encontre de ma volonté. Alors oui,
+un jour mes émotions ont pris le dessus. J’ai volontairement cassé mon
+téléphone.
+#IntelligenceEmotionnelle #BiaisCognitifs #Pathologiesdelattention
+Pour la génération 2000, c’est le moment de découvrir comme trouver de
+l’attention tout en vivant avec le numérique.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscription obligatoire&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Atelier `Dev ton app en .NET` par Le Mug In Clermont</title>
+        <updated>2019-10-14T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/14/code-week</id>
+        <link href="http://planet.clermontech.org/2019/10/14/code-week" />
+        <content type="html">&lt;p&gt;Le MUG est une association regroupant des professionnels de CGI, Avanade,
+Accenture entre autres qui se réunissent tous les mois pour échanger sur les
+technologies Microsoft et .NET en particulier. De nombreux échanges sont
+réalisés avec le Club Info toute l’année. Le MUG réalise souvent ses
+conférences à l’IUT et à l’occasion de la Code Week, vous allez pouvoir
+apprendre à développer de manière simple et rapide une application .NET
+web avec Blazor notamment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscription obligatoire&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Devoxx4Kids Clermont-Ferrand</title>
@@ -23,6 +164,137 @@
 &lt;p&gt;&lt;strong&gt;Audrey Neveu - Kajin Rashid - Emmanuel Feller&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;La team Devoxx4kids France débarque à Clermont.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Atelier `Du dev jusqu'a la prod en un claquement de doigts` par Nicolas Raymond</title>
+        <updated>2019-10-10T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/10/code-week</id>
+        <link href="http://planet.clermontech.org/2019/10/10/code-week" />
+        <content type="html">&lt;p&gt;Vous sentez que vos méthodes de sauvegarde sur clé USB sont largement
+dépassées ? Vous voulez trouver des solutions pour garder un historique de vos
+modifications ? pour travailler en groupe ? Alors cet atelier est fait pour
+vous ! Découvrez des outils de gestion de versions et de travail collaboratif
+comme git, gitlab et d’intégration continue. Une formidable introduction aux
+outils que vous serez amenés à utiliser à l’IUT et en entreprise. Un must go !&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscription obligatoire&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>La liberté dans le nuage par Nicolas Spatola, Haffid Abdel-kader et Marc Chevaldonné</title>
+        <updated>2019-10-09T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/09/code-week</id>
+        <link href="http://planet.clermontech.org/2019/10/09/code-week" />
+        <content type="html">&lt;p&gt;Qu’est-ce qu’internet ? Comment est-on passé du peer-to-peer à une
+architecture client-serveur ? Les nuages nous rendent-ils plus libres ?
+Haffid, Nicolas et moi nous posons des questions liées à la vie privée, au
+droit et à l’informatique dans les architectures liées à Internet, tout en
+proposant des alternatives aux solutions privées invasives.&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Atelier UX/UI par Céline Bernimont et Mickaël Gourdet</title>
+        <updated>2019-10-08T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/08/code-week</id>
+        <link href="http://planet.clermontech.org/2019/10/08/code-week" />
+        <content type="html">&lt;p&gt;UX signifie User eXperience, et UI signifie User Interface.
+Suite à l’énorme succès de cet atelier lors de l’édition 2018, Céline et
+Mickaël de l’entreprise Avanade ont proposé de répéter l’atelier. Après une
+courte introduction à UX et UI, ils vous demanderont de proposer vous-mêmes
+une interface utilisateur pour une page web ou une application mobile centrée
+utilisateur. Pas besoin de savoir programmer ! Amenez votre motivation,
+votre bon sens, votre curiosité.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inscription obligatoire&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>Data Science & Elections par Marc Agenis</title>
+        <updated>2019-10-07T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/07/code-week-2</id>
+        <link href="http://planet.clermontech.org/2019/10/07/code-week-2" />
+        <content type="html">&lt;p&gt;Marc Agenis, data scientist freelance, viendra nous parler informatique et
+politique.&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>IoT - Internet of Things par Paul Pinault</title>
+        <updated>2019-10-07T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/07/code-week-1</id>
+        <link href="http://planet.clermontech.org/2019/10/07/code-week-1" />
+        <content type="html">&lt;p&gt;Un professionnel de Michelin vient vous parler Internet of Things. C’est une
+magnifique opportunité qui ne se présentera pas tous les ans ! À ne pas
+manquer !&lt;/p&gt;
+
+&lt;p&gt;La Code Week c’est deux semaines dédiées au code et à la programmation numérique
+pour célébrer l’apprentissage du code. Cette sixième édition se déroulera du
+7 au 19 octobre 2019.&lt;/p&gt;
+
+&lt;p&gt;Renseignements et inscription : marc.chevaldonne@uca.fr
+Certaines soirées sont limitées en places et vous devez vous inscrire
+pour participer ! (Néanmoins, vous pouvez également vous inscrire aux soirées
+n’ayant pas d’inscription obligatoire pour nous aider à anticiper les flux)&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+        <title>MUG In Clermont - 14 - Le MUG n'est plus, Bienvenue au WUG</title>
+        <updated>2019-10-01T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/10/01/muginclermont-14</id>
+        <link href="http://planet.clermontech.org/2019/10/01/muginclermont-14" />
+        <content type="html">&lt;p&gt;Nous sommes en 1981. Microsoft a été fondé il y a quelques années déjà.
+L’entreprise travaille sur son futur système d’exploitation. Mais Bill Gates
+partage ce travail avec son autre grande passion, le tri des crêpes.&lt;/p&gt;
+
+&lt;p&gt;En juillet, Bill en est persuadé, le marché de la crêpe est bien plus porteur
+que le marché des OS. MS-DOS ne verra jamais le jour, et Microsoft deviendra
+le leader mondial de la crêpe.&lt;/p&gt;
+
+&lt;p&gt;39 ans plus tard, Windows, .Net, Azure n’existe pas. Bienvenue au WUG
+(Whatever User Group) pour une présentation d’un développement from scratch
+d’une application sans aucune technologie Microsoft&lt;/p&gt;
 </content>
     </entry>
     
