@@ -9764,8 +9764,8 @@ th.hide-for-touch {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url(/fonts/font-awesome/fontawesome-webfont.eot?1571406437);
-  src: url(/fonts/font-awesome/fontawesome-webfont.eot?&1571406437#iefix) format("embedded-opentype"), url(/fonts/font-awesome/fontawesome-webfont.woff?1571406437) format("woff"), url(/fonts/font-awesome/fontawesome-webfont.ttf?1571406437) format("truetype"), url(/fonts/font-awesome/fontawesome-webfont.svg?1571406437#fontawesomeregular) format("svg");
+  src: url(/fonts/font-awesome/fontawesome-webfont.eot?1571579204);
+  src: url(/fonts/font-awesome/fontawesome-webfont.eot?&1571579204#iefix) format("embedded-opentype"), url(/fonts/font-awesome/fontawesome-webfont.woff?1571579204) format("woff"), url(/fonts/font-awesome/fontawesome-webfont.ttf?1571579204) format("truetype"), url(/fonts/font-awesome/fontawesome-webfont.svg?1571579204#fontawesomeregular) format("svg");
   font-weight: normal;
   font-style: normal;
 }
