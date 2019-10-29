@@ -2,12 +2,27 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-10-29T13:53:40+00:00</updated>
+    <updated>2019-10-29T16:38:28+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>MUG In Clermont - 15 - Have fun with PowerBI</title>
+        <updated>2019-11-12T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/11/12/muginclermont-15</id>
+        <link href="http://planet.clermontech.org/2019/11/12/muginclermont-15" />
+        <content type="html">&lt;p&gt;Eric BLANCHARD, Architecte .NET chez Modis à Clermont-Ferrand nous présentera les usages autours de Microsoft Azure Databricks, DataFactory et PowerBI.&lt;/p&gt;
+
+&lt;p&gt;L’Hacienda Café, nous hébergera gracieusement pour cette soirée qui se clôturera par planches et cocktails pour poursuivre les échanges/débats.&lt;/p&gt;
+
+&lt;p&gt;L’événement aura lieu le 12 novembre 2019 à partir de 19H à L’Hacienda Café, 5 Place Gilbert Gaillard à Clermont-Ferrand.
+Accès Tram : Arrêt Gaillard
+Parking : Marché St Pierre&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #44</title>
