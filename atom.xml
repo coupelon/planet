@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-10-31T13:54:46+00:00</updated>
+    <updated>2019-10-31T14:57:26+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -14,7 +14,9 @@
         <updated>2019-11-12T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2019/11/12/muginclermont-15</id>
         <link href="http://planet.clermontech.org/2019/11/12/muginclermont-15" />
-        <content type="html">&lt;p&gt;Eric BLANCHARD, Architecte .NET chez Modis à Clermont-Ferrand nous présentera les usages autours de Microsoft Azure Databricks, DataFactory et PowerBI.&lt;/p&gt;
+        <content type="html">&lt;p&gt;De la PME au Grand Compte, Power BI c’est fun… Mais attention, sans ces alliés du moment, l’outils peut vite devenir une galère sans nom, avec une vitesse d’affichage digne d’un escargot. Comment traiter toutes ces données en un minimum de temps ? Petit tour d’horizon avec les outils d’aujourd’hui, Azure Databricks, Azure Datafactory, Azure Data Lake, Azure Analysis Services.&lt;/p&gt;
+
+&lt;p&gt;Eric BLANCHARD, Architecte .NET chez Modis à Clermont-Ferrand nous présentera les usages autours de ces outils.&lt;/p&gt;
 
 &lt;p&gt;L’Hacienda Café, nous hébergera gracieusement pour cette soirée qui se clôturera par planches et cocktails pour poursuivre les échanges/débats.&lt;/p&gt;
 
