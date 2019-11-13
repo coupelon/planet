@@ -2,12 +2,30 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2019-11-12T14:02:20+00:00</updated>
+    <updated>2019-11-13T12:38:41+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Todo: Migrate from Spring to Quarkus</title>
+        <updated>2019-11-21T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2019/11/21/lavajug-quarkus</id>
+        <link href="http://planet.clermontech.org/2019/11/21/lavajug-quarkus" />
+        <content type="html">&lt;p&gt;Plonger dans l’univers Quarkus, comprendre pourquoi Graal VM est le prochain gros virage du monde Java que vous utilisiez Graal VM ou pas. Et surtout apprendre comment rendre vos applications vraiment Nativement Cloud Native.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Clement Escoffier&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Qui suis-je ? Bonne question. J’ai été chercheur à l’université de Grenoble, architecte chez Axway, directeur de l’innovation dans une boite allemande…. Actuellement je suis core developer sur vert.x, et je travaille pour Red Hat. J’ai touché à beaucoup de domaines - OSGi, mobile, continuous delivery, devops, HTML5… Mon but ? Fournir des outils, des méthodes pour rendre le développement plus efficace mais également plus agréable et plus fun. Je suis un contributeur actif sur de nombreux projets Open Source comme Apache Felix, iPOJO, Wisdom et bien évidement Vert.X.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Daniel Petisme&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Le gars qui joue à domicile :-)
+Expert technique chez Michelin le jour, contributeur Open-Source la nuit (principalement sur Vert.X, JHipster, Quarkus).&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>MUG In Clermont - 15 - Have fun with PowerBI</title>
