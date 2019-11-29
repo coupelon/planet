@@ -12,7 +12,7 @@
     </author>
     {% for event in site.posts %}
     <entry>
-        <title>{{ event.title }}</title>
+        <title>{{ event.title | escape }}</title>
         <updated>{{ event.date | date_to_xmlschema }}</updated>
         <id>{{ site.base_url }}{{ event.id }}</id>
         <link href="{{ site.base_url }}{{ event.id }}" />
