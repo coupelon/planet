@@ -2,12 +2,35 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2020-02-03T14:43:57+00:00</updated>
+    <updated>2020-02-04T09:39:31+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>Microsoft Dev Roadshow</title>
+        <updated>2020-02-17T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2020/02/17/mug-17</id>
+        <link href="http://planet.clermontech.org/2020/02/17/mug-17" />
+        <content type="html">&lt;p&gt;Après l’annonce du Surface Neo et du Surface Duo, c’est au tour du MUG de vous annoncer du lourd avec la venue du Microsoft Dev Roadshow le 17 Février 2020 dans la capitale Auvergnate (rien que ça) !&lt;/p&gt;
+
+&lt;p&gt;Grâce à vos nombreux votes en mars dernier, les équipes de Microsoft font escale dans notre belle contrée pour nous faire découvrir ce qu’on peut faire avec des technologies MS (teaser: pas que du .NET).&lt;/p&gt;
+
+&lt;p&gt;A partir de 19h, &lt;strong&gt;Olivier Leplus&lt;/strong&gt;, &lt;strong&gt;Tiffany Souterre&lt;/strong&gt;, &lt;strong&gt;Yohan Lasorsa&lt;/strong&gt; et &lt;strong&gt;Maud Lévy&lt;/strong&gt; nous parlerons de 4 sujets :
+- Pimp your vs code
+- projet FUGU (projet de standardisation des API de nos browsers - ex: bar code reader, native file api, contact picker, etc.)
+- Un environnement de dev propre et qui marche à tous les coups
+- Découvrez NestJS, le framework Node.js qui monte !&lt;/p&gt;
+
+&lt;p&gt;La première partie sera assurée par &lt;em&gt;les étudiants du Club Info de l’IUT informatique&lt;/em&gt; qui nous présenteront leurs projets mettant en œuvre des technologies Microsoft (hololens, Kinnect et d’autres surprises). &lt;strong&gt;Rendez-vous à 18h&lt;/strong&gt; pour découvrir leur talent.&lt;/p&gt;
+
+&lt;p&gt;Comme d’habitude, après la conférence vous pourrez échanger avec Olivier, Tiffany, Yohan, Maud et les étudiants du club autour d’un verre et de quelques pizzas.&lt;/p&gt;
+
+&lt;p&gt;N’hésitez pas à nous rejoindre même si vous n’êtes pas inscrits !&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>Introduction à JHipster</title>
