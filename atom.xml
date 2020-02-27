@@ -2,12 +2,23 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2020-02-27T14:55:22+00:00</updated>
+    <updated>2020-02-27T21:29:10+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
         <email>planet@clermontech.org</email>
     </author>
+    
+    <entry>
+        <title>clermontech.php Super Apéro 2020</title>
+        <updated>2020-03-18T00:00:00+00:00</updated>
+        <id>http://planet.clermontech.org/2020/03/18/clermontech-superapero-php-4</id>
+        <link href="http://planet.clermontech.org/2020/03/18/clermontech-superapero-php-4" />
+        <content type="html">&lt;p&gt;L’&lt;a href=&quot;https://afup.org&quot;&gt;AFUP&lt;/a&gt; et &lt;a href=&quot;http://clermontech.org&quot;&gt;Clermont’ech&lt;/a&gt; s’associent cette année encore pour participer au traditionnel super apéro PHP 2020.
+Petit rappel du concept: il s’agit d’organiser des apéros le même soir dans les différentes villes de France où des antennes AFUP sont présentes. Au programme donc de l’échange dans la joie et la bonne humeur !
+Pas besoin d’inscription préalable.&lt;/p&gt;
+</content>
+    </entry>
     
     <entry>
         <title>APIHour #46</title>
