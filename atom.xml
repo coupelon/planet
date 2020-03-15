@@ -2,7 +2,7 @@
     <title>Planet Clermont'ech</title>
     <link href="http://planet.clermontech.org/atom.xml" rel="self" type="application/atom+xml"/>
     <link href="http://planet.clermontech.org" rel="alternate" type="text/html"/>
-    <updated>2020-03-15T15:04:06+00:00</updated>
+    <updated>2020-03-15T18:01:53+00:00</updated>
     <id>http://planet.clermontech.org/</id>
     <author>
         <name>Clermont'ech et al.</name>
@@ -10,7 +10,7 @@
     </author>
     
     <entry>
-        <title>Micronaut et GraalVM</title>
+        <title>Micronaut et GraalVM - Annulé</title>
         <updated>2020-03-19T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2020/03/19/lavajug-micronaut-graalvm</id>
         <link href="http://planet.clermontech.org/2020/03/19/lavajug-micronaut-graalvm" />
@@ -33,7 +33,7 @@
     </entry>
     
     <entry>
-        <title>clermontech.php Super Apéro 2020</title>
+        <title>clermontech.php Super Apéro 2020 - Annulé</title>
         <updated>2020-03-18T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2020/03/18/clermontech-superapero-php-4</id>
         <link href="http://planet.clermontech.org/2020/03/18/clermontech-superapero-php-4" />
@@ -44,11 +44,11 @@ Pas besoin d’inscription préalable.&lt;/p&gt;
     </entry>
     
     <entry>
-        <title>Py Clermont</title>
+        <title>Py Clermont - Annulé</title>
         <updated>2020-03-17T00:00:00+00:00</updated>
         <id>http://planet.clermontech.org/2020/03/17/pyclermont-2</id>
         <link href="http://planet.clermontech.org/2020/03/17/pyclermont-2" />
-        <content type="html">&lt;p&gt;PyClermont (auparavant connu sous Python User Group) vous invite à 
+        <content type="html">&lt;p&gt;PyClermont (auparavant connu sous Python User Group) vous invite à
 son deuxième évènement, un moment d’échange et de convivialité autour du Python.&lt;/p&gt;
 
 &lt;p&gt;Une 2ème version arrive avec cette fois des conférences, un nouveau lieu et un nouveau nom.&lt;/p&gt;
